@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/Igosuki/compass-mixins.svg?branch=master)](https://travis-ci.org/Igosuki/compass-mixins)
+# I am not the creator of this, the original version is at https://github.com/Igosuki/compass-mixins
+# This version exists because the original version appears to be unmaintained at the moment.
 
 # Compass SASS Stylesheets
 
